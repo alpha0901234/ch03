@@ -1,4 +1,3 @@
-#apikey = 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
 import streamlit as st
 from audiorecorder import audiorecorder
 import openai
